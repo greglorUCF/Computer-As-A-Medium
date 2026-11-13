@@ -1,10 +1,4 @@
-# Week 11
-
-
-
-Morgan Graves - Task 1
-
-
-
-Gregory Lorantos - Task 2
+# Week11
+Task #1 - Morgan Graves
+Task #2 - Gregory Lorantos
 
